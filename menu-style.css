@@ -90,5 +90,8 @@ h4:hover{
         width: 99%;
         margin-left: 1px;
     }
-   
+ 
+   .artikel-view img{
+        width: 50%;
+   }
 }
