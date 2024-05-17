@@ -15,13 +15,15 @@ body{
     position: relative;
 }
 .wraper{
-    width: 1000px;
+    /* width: 1000px; */
+    width: 100%;
     margin: auto;
     position: relative;
 }
 .wraper1{
     background-color: white;
-    width: 1000px;
+    /* width: 1000px; */
+    width: 100%;
     margin: auto;
     position: relative;
 }
