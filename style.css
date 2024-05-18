@@ -21,9 +21,11 @@ body{
     position: relative;
 }
 .wraper1{
-    background-color: white;
-    /* width: 1000px; */
+    
+    /* background-color: white; */
+    
     width: 100%;
+    
     margin: auto;
     position: relative;
 }
@@ -147,8 +149,13 @@ nav ul li a:hover{
     padding: 10px;
 }
 .header-view{ 
-    background-color: beige; 
-    margin: 5px 5px 0px 5px;
+    
+    width: 70%;
+    margin-left: 30px;
+    padding: 5px;
+    margin-top: -100px;
+    background-color: beige;  
+     /*margin: 5px 5px 0px 5px;*/
 }
 .header-show{
     background-color: beige; 
@@ -163,12 +170,18 @@ nav ul li a:hover{
 
 .kontent-artikel{
     background-color: beige; 
-    margin: 0px 5px 0px 5px;
+    /* margin: 0px 5px 0px 5px;*/
+    margin-left: 30px;
+    width: 70%;
     padding: 5px;
 }
 
+.judul-reko{
+    padding: 5px;
+}
 .isi-reko{
-    width: 100%;
+    width: 98%;
+    margin: auto;
 }
 .gambar-reko{
     width: 100%;
@@ -321,6 +334,18 @@ nav ul li a:hover{
         height: auto;
     }
     
+
+.header-view{
+    width: 100% ;
+    margin: 0;
+}
+    .kontent-artikel{
+        width: 100%;
+        margin: 0%;
+    }
+
+    
+
 
 }
 
