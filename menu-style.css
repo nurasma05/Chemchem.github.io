@@ -16,12 +16,12 @@
 .artikel-kotak-1{
 
     width: 65%;
+    margin-left: 30px;
     margin-top: -100px;
     /* float: right; */
     padding: 10px;
     min-height: 450px;
     background-color: white; 
-
 }
 .artikel-isi{
     padding: 5px;
@@ -79,8 +79,8 @@ h4:hover{
 
 @media screen and (max-width: 991.98px) {
     .artikel-kotak-1{
-
-        width: 96%;
+        margin-left: 1px;
+        width: 95%;
     }
     #artikel{
         display: block;
