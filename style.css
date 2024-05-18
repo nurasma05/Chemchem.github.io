@@ -261,7 +261,7 @@ nav ul li a:hover{
 
 
 
-@media screen and (max-width: 991.98px) {
+@media screen and (min-width: 576px) {
     nav{
         width: 100%;
     }
