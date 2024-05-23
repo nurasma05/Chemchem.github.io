@@ -210,7 +210,7 @@ nav ul li a:hover{
 }
 .pratinjau{
     margin: 5px;
-    height: 400px;
+    height: 20em;
     display: flex;
 }
 .pratinjau img{
@@ -224,6 +224,13 @@ nav ul li a:hover{
     line-height: 50px;
 }
 
+
+.judul-artikel-page{
+    background-color: yellow;
+}
+.judul-artikel-page h2{
+    background-color: orange;
+}
 
 
 
@@ -263,6 +270,10 @@ nav ul li a:hover{
 
 
 @media screen and (max-width: 991.98px) {
+    .header{
+        width: 100%;
+        background-color: pink;
+    }
     nav{
         width: 100%;
     }
