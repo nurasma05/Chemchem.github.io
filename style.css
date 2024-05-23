@@ -48,11 +48,12 @@ nav{
     width: 100%;
     margin: auto;
     display: flex;
-    line-height: 80px;
+    line-height: 5em;
     /* position: sticky;
-    position: -webkit-sticky; */
+    position: -webkit-sticky; 
+    z-index: 1;*/
     top: 0;
-    z-index: 1;
+    
     border-bottom: 1px solid #322653;
     background-color: #1e0c50;
 
@@ -285,7 +286,7 @@ nav ul li a:hover{
         width: 80%;
     }
     .wraper1{
-        width: 100%;
+        width: 80%;
     }
     .logo a{
         margin-left: 10px;
@@ -344,7 +345,14 @@ nav ul li a:hover{
         margin: 0%;
     }
 
-    
+.text p{
+    font-size: 1em;
+    line-height: 2em;
+}   
+    .pengantar p{
+        font-size: 1em;
+        line-height: 2em;
+    }
 
 
 }

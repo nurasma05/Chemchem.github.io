@@ -1,7 +1,6 @@
 
 #artikel{
     display: flex;
-    background-color: plum;
     justify-content: center;
 }
 
@@ -23,8 +22,7 @@
     float: right;
     padding: 10px;
     min-height: 450px;
-    /* background-color: white;  */
-    background-color: pink;
+    background-color: white;
     border-radius: 10px;
 }
 .artikel-kotak-1 h3{
