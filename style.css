@@ -225,14 +225,6 @@ nav ul li a:hover{
 }
 
 
-.judul-artikel-page{
-    background-color: yellow;
-}
-.judul-artikel-page h2{
-    background-color: orange;
-}
-
-
 
 
 
@@ -272,7 +264,6 @@ nav ul li a:hover{
 @media screen and (max-width: 991.98px) {
     .header{
         width: 100%;
-        background-color: pink;
     }
     nav{
         width: 100%;

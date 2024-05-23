@@ -39,6 +39,10 @@
 }
 .artikel-text{
     width: 100%;
+    
+}
+.artikel-text a h4{
+    background-color: pink;
 }
 .artikel-view{
     background-color: gray;
