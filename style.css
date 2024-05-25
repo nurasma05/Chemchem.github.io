@@ -159,14 +159,15 @@ nav ul li a:hover{
      /*margin: 5px 5px 0px 5px;*/
 }
 .header-show{
-    background-color: beige; 
     margin: 5px 5px 0px 5px;
     display: flex;
+    background-color: pink;
 }
 .header-show img{
     width: 90%;
     border-radius: 10px;
     margin: auto;
+    background-color: rgb(153, 33, 53);
 }
 
 .kontent-artikel{
@@ -179,19 +180,24 @@ nav ul li a:hover{
 
 .judul-reko{
     padding: 5px;
+    background-color: yellow;
 }
 .isi-reko{
+    background-color: green;
     width: 98%;
     margin: auto;
 }
 .gambar-reko{
+    background-color: blue;
     width: 100%;
 }
 .gambar-reko .gambar1{
+    background-color: purple;
    margin: 0px 10px 0px 10px;
 }
 .gambar1{
     display: flex;
+    background-color: brown;
 }
 
 .gambar-reko .gambar1 img{
