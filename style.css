@@ -154,10 +154,9 @@ nav ul li a:hover{
 }
 .header-show{
     
-    margin: 5px 5px 0px 5px;
-    height: fit-content;
+    /* margin: 5px 5px 0px 5px; */
     display: flex;
-    background-color: pink;
+    /* background-color: pink; */
 }
 .header-show img{
     width: 90%;
@@ -291,7 +290,7 @@ nav ul li a:hover{
         width: 90%;
     }
     .wraper1{
-        width: 90%;
+        width: 100%;
     }
     .logo a{
         margin-left: 10px;
