@@ -17,8 +17,8 @@
  }
 
 .artikel-kotak-1{
-    width: 60%;
-    margin-left: 30px;
+    width: 50%;
+    margin-right: 30px;
     float: right;
     padding: 10px;
     min-height: 450px;
@@ -80,7 +80,7 @@ h4:hover{
     height: 500px;
     position: relative;
     border-radius: 10px;
-
+    
 }
 
 
