@@ -153,12 +153,12 @@ nav ul li a:hover{
     margin-top: -100px;
      /*margin: 5px 5px 0px 5px;*/
 }
-.header-show{
+/* .header-show{
     background-color: rgb(150, 207, 43);
     width: 100%;
     height: min-content;
     display: flex;
-}
+} */
 .header-show img{
     width: 90%;
     border-radius: 10px;
